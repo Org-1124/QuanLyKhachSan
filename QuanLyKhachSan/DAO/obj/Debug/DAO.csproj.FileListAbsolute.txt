@@ -1,0 +1,5 @@
+C:\Users\Tungntdev\Documents\GitHub\QuanLyKhachSan\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+C:\Users\Tungntdev\Documents\GitHub\QuanLyKhachSan\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+C:\Users\Tungntdev\Documents\GitHub\QuanLyKhachSan\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Tungntdev\Documents\GitHub\QuanLyKhachSan\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+C:\Users\Tungntdev\Documents\GitHub\QuanLyKhachSan\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb
