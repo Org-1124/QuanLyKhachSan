@@ -181,8 +181,8 @@ namespace QuanLyKhachSan
         {
             DataGridViewRow row = dgvPhong.SelectedRows[0];
             txtIDPhong.Text = row.Cells["IDPhong"].Value.ToString();
-            txtGiaPhong.Text = row.Cells["SucChua"].Value.ToString();
-            txtSucChua.Text = row.Cells["GiaPhong"].Value.ToString();
+            txtGiaPhong.Text = row.Cells["GiaPhong"].Value.ToString();
+            txtSucChua.Text = row.Cells["SucChua"].Value.ToString();
             try { string s = row.Cells["TrangThai"].Value.ToString(); ckTrangThai.Checked = true; }
             catch { ckTrangThai.Checked = false; }
         }

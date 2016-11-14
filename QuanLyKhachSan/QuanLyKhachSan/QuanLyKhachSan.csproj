@@ -59,6 +59,12 @@
     <Compile Include="frmDichVu.Designer.cs">
       <DependentUpon>frmDichVu.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDoDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoDung.Designer.cs">
+      <DependentUpon>frmDoDung.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
